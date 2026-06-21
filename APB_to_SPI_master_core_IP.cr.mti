@@ -1,0 +1,43 @@
+C:/Users/Acer/OneDrive/Desktop/VLSI/Project/ShiftRegister.v {1 {vlog -work work -stats=none C:/Users/Acer/OneDrive/Desktop/VLSI/Project/ShiftRegister.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Shift_reg
+
+Top level modules:
+	Shift_reg
+
+} {} {}} C:/Users/Acer/OneDrive/Desktop/VLSI/Project/BaudRateGenerator.v {1 {vlog -work work -stats=none C:/Users/Acer/OneDrive/Desktop/VLSI/Project/BaudRateGenerator.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Baud_rate_generator
+
+Top level modules:
+	Baud_rate_generator
+
+} {} {}} C:/Users/Acer/OneDrive/Desktop/VLSI/Project/Top_module.v {1 {vlog -work work -stats=none C:/Users/Acer/OneDrive/Desktop/VLSI/Project/Top_module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module top_module
+
+Top level modules:
+	top_module
+
+} {} {}} C:/Users/Acer/OneDrive/Desktop/VLSI/Project/testbench.v {1 {vlog -work work -stats=none C:/Users/Acer/OneDrive/Desktop/VLSI/Project/testbench.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module top_module_tb
+
+Top level modules:
+	top_module_tb
+
+} {} {}} C:/Users/Acer/OneDrive/Desktop/VLSI/Project/slave_select_block.v {1 {vlog -work work -stats=none C:/Users/Acer/OneDrive/Desktop/VLSI/Project/slave_select_block.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module spi_slave_select
+
+Top level modules:
+	spi_slave_select
+
+} {} {}} C:/Users/Acer/OneDrive/Desktop/VLSI/Project/APB_module.v {1 {vlog -work work -stats=none C:/Users/Acer/OneDrive/Desktop/VLSI/Project/APB_module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module APB_slave
+
+Top level modules:
+	APB_slave
+
+} {} {}}

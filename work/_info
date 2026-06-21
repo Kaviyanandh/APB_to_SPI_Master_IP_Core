@@ -1,0 +1,139 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/17.1
+vAPB_slave
+Z0 !s110 1781717067
+!i10b 1
+!s100 hQc<@?oF`5UoCGhSHQ]]40
+I5>59:OCffkdnJgZAOPeMS0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Acer/OneDrive/Desktop/VLSI/Project
+w1781716397
+8C:/Users/Acer/OneDrive/Desktop/VLSI/Project/APB_module.v
+FC:/Users/Acer/OneDrive/Desktop/VLSI/Project/APB_module.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1781717067.000000
+!s107 C:/Users/Acer/OneDrive/Desktop/VLSI/Project/APB_module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Acer/OneDrive/Desktop/VLSI/Project/APB_module.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@a@p@b_slave
+vBaud_rate_generator
+R0
+!i10b 1
+!s100 e0<S8mPhbQn8iVjGiXOhb3
+I?m`@T5A>Xl[gWoQmPCB_W3
+R1
+R2
+w1781716730
+8C:/Users/Acer/OneDrive/Desktop/VLSI/Project/BaudRateGenerator.v
+FC:/Users/Acer/OneDrive/Desktop/VLSI/Project/BaudRateGenerator.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Acer/OneDrive/Desktop/VLSI/Project/BaudRateGenerator.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Acer/OneDrive/Desktop/VLSI/Project/BaudRateGenerator.v|
+!i113 1
+R5
+R6
+n@baud_rate_generator
+vShift_reg
+R0
+!i10b 1
+!s100 gdE;ePVR]bV`O6<DnJ?0^2
+IO^o=I@k2VN58=^DRDBGan0
+R1
+R2
+w1780334938
+8C:/Users/Acer/OneDrive/Desktop/VLSI/Project/ShiftRegister.v
+FC:/Users/Acer/OneDrive/Desktop/VLSI/Project/ShiftRegister.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Acer/OneDrive/Desktop/VLSI/Project/ShiftRegister.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Acer/OneDrive/Desktop/VLSI/Project/ShiftRegister.v|
+!i113 1
+R5
+R6
+n@shift_reg
+vspi_slave_select
+R0
+!i10b 1
+!s100 7IEmO?Ind<j73fl[Od7W=1
+ID5mWo=9cba]`idBfQJ`TL2
+R1
+R2
+w1781715197
+8C:/Users/Acer/OneDrive/Desktop/VLSI/Project/slave_select_block.v
+FC:/Users/Acer/OneDrive/Desktop/VLSI/Project/slave_select_block.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Acer/OneDrive/Desktop/VLSI/Project/slave_select_block.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Acer/OneDrive/Desktop/VLSI/Project/slave_select_block.v|
+!i113 1
+R5
+R6
+vtop_module
+R0
+!i10b 1
+!s100 SdW`POUEbe_zef=A6R7g03
+I71_<0l8^Izn`j9a<H;ceN3
+R1
+R2
+w1781717057
+8C:/Users/Acer/OneDrive/Desktop/VLSI/Project/Top_module.v
+FC:/Users/Acer/OneDrive/Desktop/VLSI/Project/Top_module.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Acer/OneDrive/Desktop/VLSI/Project/Top_module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Acer/OneDrive/Desktop/VLSI/Project/Top_module.v|
+!i113 1
+R5
+R6
+vtop_module_tb
+R0
+!i10b 1
+!s100 zZKn]VgBcOgK>kZ4`Fizm3
+IXS8DNgh0P9OBf=K41;19f3
+R1
+R2
+w1781716441
+8C:/Users/Acer/OneDrive/Desktop/VLSI/Project/testbench.v
+FC:/Users/Acer/OneDrive/Desktop/VLSI/Project/testbench.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Acer/OneDrive/Desktop/VLSI/Project/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Acer/OneDrive/Desktop/VLSI/Project/testbench.v|
+!i113 1
+R5
+R6
